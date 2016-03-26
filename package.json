@@ -1,7 +1,7 @@
 {
   "name": "js-bridge",
   "version": "1.0.0",
-  "description": "js-bridge",
+  "description": "A JavaScript bridge for sending messages between JavaScript and native code(Obj-C/Java) in WebViews.",
   "main": "./lib",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec ./test/*.js"
